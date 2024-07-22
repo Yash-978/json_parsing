@@ -7,7 +7,7 @@ import 'Screens/PhotosJson/PhotoView/photoView.dart';
 import 'Screens/UserDataJson/UserDataView/userDataView.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
